@@ -1,0 +1,12 @@
+name: CHEM3004_RotSpec
+channels:
+  - psi4/label/dev
+  - conda-forge
+dependencies:
+  - psi4
+  - psi4-rt
+  - dftd3
+  - ipykernel
+  - ipywidgets
+  - py3dmol
+  - appmode
