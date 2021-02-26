@@ -5,8 +5,10 @@ channels:
 dependencies:
   - psi4
   - psi4-rt
-  - dftd3
   - ipykernel
   - ipywidgets
   - py3dmol
   - appmode
+  - rdkit
+  - openbabel
+
